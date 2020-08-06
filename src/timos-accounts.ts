@@ -1,3 +1,5 @@
+module.exports = 'timos-accounts';
+
 export function signIn() {
   console.log('Sign in');
 }

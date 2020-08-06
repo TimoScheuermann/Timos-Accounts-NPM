@@ -17,5 +17,8 @@
     "url": "https://github.com/TimoScheuermann/Timos-Accounts-NPM/issues"
   },
   "homepage": "https://github.com/TimoScheuermann/Timos-Accounts-NPM#readme",
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "@types/node": "^14.0.27"
+  }
 }
