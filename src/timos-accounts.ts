@@ -1,5 +1,3 @@
-import './ta';
-
 export function signIn() {
   console.log('Sign in');
 }
