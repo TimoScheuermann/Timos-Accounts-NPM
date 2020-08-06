@@ -1,0 +1,19 @@
+{
+  "name": "timos-accounts",
+  "version": "0.0.1",
+  "description": "Library to authenticate users in your application using timos-accounts\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimoScheuermann/Timos-Accounts-NPM.git"
+  },
+  "author": "Timo Scheuermann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimoScheuermann/Timos-Accounts-NPM/issues"
+  },
+  "homepage": "https://github.com/TimoScheuermann/Timos-Accounts-NPM#readme"
+}
