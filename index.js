@@ -7,5 +7,5 @@ export function signOut() {
 }
 
 export function getTAUser() {
-  console.log('TA User');
+  console.log('return TA User');
 }
