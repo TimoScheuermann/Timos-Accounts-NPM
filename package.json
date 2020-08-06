@@ -5,7 +5,7 @@
   "main": "dist/timos-accounts.js",
   "types": "dist/timos-accounts.d.ts",
   "scripts": {
-    "prepublish": "rm -rf dist/ && tsc"
+    "prepublishOnly": "rm -rf dist/ && tsc"
   },
   "repository": {
     "type": "git",
